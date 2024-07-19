@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Dive into our electrifying new game; where strategy meets excitement and every move could be the game-changer.",
+        "title": "Unleash Your Inner Champion"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Dive into our electrifying new game; where strategy meets excitement and every move could be the game-changer.",
+        "title": "Unleash Your Inner Champion"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Dive into our electrifying new game; where strategy meets excitement and every move could be the game-changer.",
+        "title": "Unleash Your Inner Champion"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into our electrifying new game; where strategy meets excitement and every move could be the game-changer.",
+        "title": "Unleash Your Inner Champion"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into our electrifying new game; where strategy meets excitement and every move could be the game-changer.",
+        "title": "Unleash Your Inner Champion"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into our electrifying new game; where strategy meets excitement and every move could be the game-changer.",
+        "title": "Unleash Your Inner Champion"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into our electrifying new game; where strategy meets excitement and every move could be the game-changer.",
+        "title": "Unleash Your Inner Champion"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into our electrifying new game; where strategy meets excitement and every move could be the game-changer.",
+        "title": "Unleash Your Inner Champion"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into our electrifying new game; where strategy meets excitement and every move could be the game-changer.",
+        "title": "Unleash Your Inner Champion"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash Your Inner Champion",
+  "subtitle": "Dive into our electrifying new game; where strategy meets excitement and every move could be the game-changer."
+}
